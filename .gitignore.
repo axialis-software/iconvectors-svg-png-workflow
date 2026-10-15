@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+working-rerun/
+png-rerun/
+*.log
+.DS_Store
+Thumbs.db
