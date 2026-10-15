@@ -1,0 +1,37 @@
+file,source,width,height,transparent_pixels,painted_pixels,opaque_pixels,alpha_min,alpha_max,bbox,edge_alpha_max,edge_clear,opaque_rgb_matches_334155,alpha_weighted_rgb_max_error,alpha_weighted_rgb_tolerance,sha256,result
+arrow-left_16x16.png,arrow-left.svg,16,16,198,58,0,0,248,"(2, 2, 14, 14)",0,True,NOT_APPLICABLE_NO_OPAQUE_PIXELS,0.972549,2,33d8283189b083038c7504e44778dbf051f239fdb5bb32a9f7cd227ab2638819,PASS
+arrow-left_24x24.png,arrow-left.svg,24,24,480,96,40,0,255,"(4, 4, 20, 20)",0,True,True,0.933333,2,3f202feae98062da659242b6e1f15cfe605b6c78f6163a769ddb3b73959ab6ad,PASS
+arrow-left_32x32.png,arrow-left.svg,32,32,838,186,76,0,255,"(5, 5, 27, 27)",0,True,True,0.92549,2,f32319d5b3a18350ace1c23ffc90c61b3f899129a5fcc13eab6c5edef773acbd,PASS
+arrow-right_16x16.png,arrow-right.svg,16,16,198,58,0,0,247,"(2, 2, 14, 14)",0,True,NOT_APPLICABLE_NO_OPAQUE_PIXELS,0.968627,2,b3fdd2fe5ebf04081bfce3ff5c4ae3b72e3a4543e5338a536ef5c5702427257c,PASS
+arrow-right_24x24.png,arrow-right.svg,24,24,480,96,40,0,255,"(4, 4, 20, 20)",0,True,True,0.929412,2,ec802da18b2b0d0b1bab882034e2294f65ef75010b7e040d506eec162471c41e,PASS
+arrow-right_32x32.png,arrow-right.svg,32,32,837,187,76,0,255,"(5, 5, 27, 27)",0,True,True,0.933333,2,69a4d772e4cfa365b5d0cffc337ba6cc5279f6b57deb94fed1821d7fef1e4e54,PASS
+check_16x16.png,check.svg,16,16,212,44,0,0,236,"(2, 3, 14, 12)",0,True,NOT_APPLICABLE_NO_OPAQUE_PIXELS,0.92549,2,11151d46a9eb97842c157d16b3837619bdd2ce447572af214ede2e8ab40125b6,PASS
+check_24x24.png,check.svg,24,24,494,82,16,0,255,"(3, 5, 21, 18)",0,True,True,0.835294,2,df1116ebafa6866018700495415af0de50bf8a58a11c966f11bd0d5e65a69d7e,PASS
+check_32x32.png,check.svg,32,32,890,134,44,0,255,"(4, 6, 28, 24)",0,True,True,0.898039,2,17287ad7abf2b92f79b6c0b8e3f580cf6f54999d9db9abc1e887afd6fde2180c,PASS
+copy_16x16.png,copy.svg,16,16,124,132,16,0,255,"(0, 0, 16, 16)",84,False,True,0.988235,2,1c61467ae77b08aeb741244eae2e26cbc321649c6d61c545515fbefd794f5838,PASS; edge antialias review
+copy_24x24.png,copy.svg,24,24,389,187,141,0,255,"(1, 1, 23, 23)",0,True,True,0.913725,2,5496b25fe9e8a580c98debad3eb3469bc40ee8f183659fe677e86ba43d01f19a,PASS
+copy_32x32.png,copy.svg,32,32,655,369,149,0,255,"(1, 1, 31, 31)",0,True,True,0.992157,2,cf983b83ae40600061fa3e1c3927d4a9be1fee8990a59adfd125943d68134af2,PASS
+download_16x16.png,download.svg,16,16,176,80,2,0,255,"(1, 1, 15, 15)",0,True,True,1.121569,2,874efa1fc0ba1e5e456b43643f3f7a7650276100be93e433a19bda62b3290e9d,PASS
+download_24x24.png,download.svg,24,24,438,138,82,0,255,"(2, 2, 22, 22)",0,True,True,0.929412,2,d917a27a48bd254bf62d342f67c1672c3d73fca0b124d0d43499a3c333a9208f,PASS
+download_32x32.png,download.svg,32,32,732,292,119,0,255,"(2, 2, 30, 30)",0,True,True,1.176471,2,215a4b72216806c9f2fca4e36d99085a6a0e20c2fc8c7e8be36e8dc4331eb9f0,PASS
+file_16x16.png,file.svg,16,16,153,103,22,0,255,"(2, 0, 14, 16)",109,False,True,1.058824,2,a68093bacd87a47415a880391d1ae2d87ad25a935d7d4e909e15bd67f3b7f2aa,PASS; edge antialias review
+file_24x24.png,file.svg,24,24,406,170,129,0,255,"(3, 1, 21, 23)",0,True,True,0.968627,2,9b7297a95a09f52f83bf4b7834c0b31bd112596f6874afd1975fa4d6405b938b,PASS
+file_32x32.png,file.svg,32,32,704,320,151,0,255,"(4, 1, 28, 31)",0,True,True,0.996078,2,b3460e8304685cb212bf7de5159f4a78b66250246cc3977c1496d867b3bd922a,PASS
+folder_16x16.png,folder.svg,16,16,158,98,9,0,255,"(0, 1, 16, 14)",84,False,True,0.992157,2,d7127eafa5ab138f953082925577256b5fa3294152aedf82b8106142d6bae6ea,PASS; edge antialias review
+folder_24x24.png,folder.svg,24,24,424,152,118,0,255,"(1, 2, 23, 21)",0,True,True,0.992157,2,aa1b90eb5362244f855bc4b3a6a63185512e52c1d311c08afc8075de691986af,PASS
+folder_32x32.png,folder.svg,32,32,713,311,134,0,255,"(1, 2, 31, 28)",0,True,True,0.988235,2,ad7d6eeb9eddd7748bb7743183c65330d803ca569dcec8a4779f00969a6e4a6c,PASS
+search_16x16.png,search.svg,16,16,166,90,10,0,255,"(1, 1, 15, 15)",0,True,True,0.988235,2,c37961fa14c10251144ad174777faaf0d5c31fc7bf5c11bcd3b40a42034437c9,PASS
+search_24x24.png,search.svg,24,24,403,173,48,0,255,"(2, 2, 22, 22)",0,True,True,1.521569,2,d07bd8dccf8f4ccef0adb5bdd2bf7fa2c93c9b94f68c0dbad3a2d175945bde27,PASS
+search_32x32.png,search.svg,32,32,737,287,113,0,255,"(2, 2, 30, 30)",0,True,True,0.992157,2,4121d5b72c571cba0e7a1a9634d1c8a8bfccdf57588d27f0b414509bf3559ec7,PASS
+settings_16x16.png,settings.svg,16,16,128,128,9,0,255,"(1, 0, 15, 16)",55,False,True,0.992157,2,a179a4b2d42b4c1c40b53ff1e7e7e3729785a61ff9f9f966fac81aa02c140f1e,PASS; edge antialias review
+settings_24x24.png,settings.svg,24,24,316,260,73,0,255,"(2, 1, 22, 23)",0,True,True,0.992157,2,2fcdb1a82f02e12934066638b3ce42fa284ebab00d944c8f15b7fa4d9b0a4d1b,PASS
+settings_32x32.png,settings.svg,32,32,575,449,175,0,255,"(2, 1, 30, 31)",0,True,True,0.992157,2,c84bdccafd9cc24e530d3fc94e4832a821108f9442e641dc0e7dbeff074881b2,PASS
+trash_16x16.png,trash.svg,16,16,124,132,23,0,255,"(1, 0, 15, 16)",84,False,True,0.996078,2,a717fc39cd297cb45ab0e45d5b015f708af0734d9426f502c83ed02509b941c9,PASS; edge antialias review
+trash_24x24.png,trash.svg,24,24,384,192,156,0,255,"(2, 1, 22, 23)",0,True,True,0.913725,2,cae10133f344b70b0fcbdf50627d43abc6a955c68b4b31d71918ac5deee9aaed,PASS
+trash_32x32.png,trash.svg,32,32,622,402,187,0,255,"(2, 1, 30, 31)",0,True,True,0.992157,2,94a245dd2605ebc0b53cb57ba752bb3a734c9caf4f3bc8024cbfe92d20312be6,PASS
+upload_16x16.png,upload.svg,16,16,176,80,2,0,255,"(1, 1, 15, 15)",0,True,True,1.137255,2,bcf9455c23b84b1bcb95a3a2bcd86ce1c291dcdb9f6a27e83386903c88738591,PASS
+upload_24x24.png,upload.svg,24,24,438,138,82,0,255,"(2, 2, 22, 22)",0,True,True,0.933333,2,67d42ffc5587c123c8b43b789f661c5798f106ce418c6c1d6b4361bd32128e00,PASS
+upload_32x32.png,upload.svg,32,32,732,292,119,0,255,"(2, 2, 30, 30)",0,True,True,1.160784,2,86feec159c78e4e33ed23ec0a6b841b2faaf56aa58fac5b76d9befae42ee1057,PASS
+x_16x16.png,x.svg,16,16,204,52,16,0,255,"(3, 3, 13, 13)",0,True,True,0.752941,2,646cce815f1f4d0336b340f8d3a496bb34cc8fd6e066352005e0441cff51a50c,PASS
+x_24x24.png,x.svg,24,24,460,116,24,0,255,"(5, 5, 19, 19)",0,True,True,0.839216,2,9b2182d229c897d12947eff8cf5e39500ce04f3ddd3b72213dd3fda319b22261,PASS
+x_32x32.png,x.svg,32,32,852,172,32,0,255,"(6, 6, 26, 26)",0,True,True,0.992157,2,c2b4b0ddf5880573f91e894648e4c7b4fdcc8edfa5f9639028361dc55cee4039,PASS
